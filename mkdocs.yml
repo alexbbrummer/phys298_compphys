@@ -1,8 +1,8 @@
 site_name: "PHYS 298 — Computational Methods of Applied Physics"
 site_description: "Spring 2026 • Tue/Thu 3:05–4:20"
 site_url: ""
-repo_url: ""
-repo_name: ""
+repo_url: "https://github.com/alexbbrummer/phys298_compphys"
+repo_name: "phys298_compphys"
 
 theme:
   name: material
