@@ -1,0 +1,35 @@
+site_name: "PHYS 298 — Computational Methods of Applied Physics"
+site_description: "Spring 2026 • Tue/Thu 3:05–4:20"
+site_url: ""
+repo_url: ""
+repo_name: ""
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.instant
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+  palette:
+    - scheme: default
+
+plugins:
+  - search
+  - awesome-pages
+  - mkdocs-jupyter:
+      include_source: true
+      execute: false
+      ignore_h1_titles: true
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - toc:
+      permalink: true

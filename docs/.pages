@@ -1,0 +1,10 @@
+nav:
+  - Home: index.md
+  - Syllabus: syllabus.md
+  - Calendar: calendar.md
+  - Resources: resources.md
+  - Lessons (Tue): lessons/
+  - Labs (Thu): labs/
+  - Assignments: assignments/
+  - Projects: projects/
+  - Notes (rendered): notes/
