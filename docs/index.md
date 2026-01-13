@@ -1,4 +1,3 @@
-# Hi Jen!  Check out my website!  Love you!  Have a good day!
 # PHYS 298 — Special Topics
 ## Computational Methods of Applied Physics (Spring 2026)
 
