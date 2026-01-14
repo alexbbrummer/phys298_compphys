@@ -27,6 +27,8 @@ plugins:
       include_source: true
       execute: false
       ignore_h1_titles: true
+      ignore:
+        - "assets/worksheets/**"
 
 markdown_extensions:
   - admonition
