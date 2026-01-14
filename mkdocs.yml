@@ -23,8 +23,10 @@ theme:
 
 plugins:
   - search
-  - awesome-pages
   - mkdocs-jupyter:
+      include:
+        - "notes/*.ipynb"
+        - "notes/*.py"
       include_source: true
       execute: false
       ignore_h1_titles: true
